@@ -1,0 +1,82 @@
+{
+  "files.autoSave": "off",
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorStyle": "line",
+  "files.eol": "\n",
+  "explorer.openEditors.visible": 0,
+  "workbench.colorTheme": "Default Light+",
+  "editor.smoothScrolling": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "explorer.autoReveal": false,
+  "php.validate.enable": true,
+  "php.validate.run": "onSave",
+  "typescript.check.npmIsInstalled": false,
+  "php.suggest.basic": false,
+  "php.executablePath": "C:/Program Files/PHP/v8.0.6/php.exe",
+  // "php.validate.executablePath": "C:/Program Files/PHP/v7.2.8/php.exe",
+  // "php.executablePath": "C:/Program Files/PHP/v7.2.8/php.exe",
+  // "php.validate.executablePath": "/usr/bin/php7.2",
+  // "php.executablePath": "/usr/bin/php7.2",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.git/**": true,
+    "**/.svn/**": true,
+    "**/.hg/**": true,
+    "**/CVS/**": true,
+    "**/node_modules/**": true,
+    "**/vendor/**": true,
+    "**/vendor-dev": true,
+    "**/*.dev-symlink-bkp": true
+  },
+  "files.watcherExclude": {
+    "**/.DS_Store": true,
+    "**/.git/**": true,
+    "**/.svn/**": true,
+    "**/.hg/**": true,
+    "**/CVS/**": true,
+    "**/node_modules/**": true,
+    "**/vendor/**": true,
+    "**/vendor-dev": true,
+    "**/*.dev-symlink-bkp": true
+  },
+  "git.ignoreMissingGitWarning": true,
+  // Set the default
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Enable per-language
+  // "[javascriptreact]": {
+  //     "editor.formatOnSave": true,
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[javascript]": {
+  //     "editor.formatOnSave": true,
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[typescriptreact]": {
+  //     "editor.formatOnSave": true,
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[typescript]": {
+  //     "editor.formatOnSave": true,
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[php]": {
+  //     "editor.formatOnSave": true
+  // },
+  "eslint.run": "onSave",
+  "remote.SSH.remotePlatform": {
+    "prisguiden": "linux",
+    "andy-ahoi": "linux",
+    "ahoi": "linux",
+    "Falcon": "linux"
+  },
+  "json.maxItemsComputed": 10000,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.advanced": {},
+  "workbench.activityBar.location": "hidden",
+  "editor.tabSize": 2
+}
